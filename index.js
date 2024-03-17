@@ -26,37 +26,37 @@ function makeSound(key) {
 
   switch (key) {
     case "peter":
-      var peter = new Audio("sounds/peter.mp3");
+      var peter = new Audio("Soundboard/sounds/peter.mp3");
       peter.play();
       break;
 
     case "lois":
-      var lois = new Audio("sounds/lois.mp3");
+      var lois = new Audio("Soundboard/sounds/lois.mp3");
       lois.play();
       break;
 
     case "chris":
-      var chris = new Audio('sounds/chris.mp3');
+      var chris = new Audio('Soundboard/sounds/chris.mp3');
       chris.play();
       break;
 
     case "meg":
-      var meg = new Audio('sounds/meg.mp3');
+      var meg = new Audio('Soundboard/sounds/meg.mp3');
       meg.play();
       break;
 
     case "stewie":
-      var stewie = new Audio('sounds/stewie.mp3');
+      var stewie = new Audio('Soundboard/sounds/stewie.mp3');
       stewie.play();
       break;
 
     case "brian":
-      var brian = new Audio('sounds/brian.mp3');
+      var brian = new Audio('Soundboard/sounds/brian.mp3');
       brian.play();
       break;
 
     case "quagmire":
-      var quagmire = new Audio('sounds/quagmire.mp3');
+      var quagmire = new Audio('Soundboard/sounds/quagmire.mp3');
       quagmire.play();
       break;
 
